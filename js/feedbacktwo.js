@@ -1,0 +1,3 @@
+jQuery(function($){
+	$('textarea').autogrow();
+});

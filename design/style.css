@@ -1,0 +1,22 @@
+/*form ul li label.Required:after {
+    color: red;
+    content: "*";
+    display: inline;
+    float: none;
+    margin: 0 5px;
+}*/
+
+.FeedbackForm label {
+	line-height: 32px;
+	width: 150px;
+	float: left;
+}
+
+.FeedbackForm form ul li {
+	margin-bottom: 4px;
+}
+
+.FeedbackForm .FullWidth {
+	width: 100%;
+	float: none;
+}
